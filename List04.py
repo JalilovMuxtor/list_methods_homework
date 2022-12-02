@@ -7,4 +7,6 @@ def main(numbers,i):
     Returns:
         list: return answer
     """
-    return
+    return numbers[i]
+print(main(['green','pink','blue'],2))
+    
